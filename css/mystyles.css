@@ -1,0 +1,97 @@
+ul{
+    font-size: 20px;
+}
+
+.Italics{
+font-style: italic;
+}
+
+p{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+#top{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.emphasizedtext{
+    font-style: italic;
+    color:royalblue;
+}
+a:visited {
+    color:black
+}
+body{
+    background-color:snow;
+    color:navy;
+    border: 5px solid black;
+    padding: 20px;
+    text-align:left;
+
+}
+.ol{
+    list-style-position: inside;
+    font-size:x-large;
+}
+
+.ul{
+    list-style-position: inside;
+    font-size:large;
+}
+.common{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
+.mainbody{
+    background-color:blanchedalmond;
+}
+.footer{
+    height: 25px;
+    background-color: black;
+    color:white;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0px;
+    Left: 8px;
+    Right: 8px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+nav{
+    background-color:wheat;
+    padding: 10px;
+    overflow: hidden;
+}
+nav a{
+    float: left;
+    color: black;
+    padding: 10px 13px;
+    font-size: 16px;
+    text-decoration:none;
+    font-weight: bold;
+}
+.ref{
+    text-align: center;
+}
+.YouTube{
+    font-size:medium
+}
+
+.Ending{
+    color:navy; 
+    text-align: center;
+    font-size:xx-large;
+}
